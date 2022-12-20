@@ -1,0 +1,62 @@
+
+
+.w50{
+    width: 50px;
+}
+.contain{
+    background: #007acc;
+    color: white;
+    font-weight: 300;
+}
+.contain h5{
+    padding: 15px 0;
+}
+nav{
+    background: #e9ecef;
+    border-radius: 4px;
+}
+nav li{
+    padding: 5px;
+}
+.notifi {
+    margin-left: 162px;
+}
+button.ml-2.mb-1.close.notify {
+    border: none;
+    background: none;
+}
+button.btn.btn-primary {
+    margin-top: 23px;
+}
+.bdr{
+    border: 1px solid #ddd;
+    border-radius: 6px;
+}
+.collapsed{
+    background: #f7f7f7;
+    padding: 7px;
+
+}
+.bdr h6{
+    font-weight: 800;
+    color: #007acc;
+    
+}
+.scrollspy-example {
+    position: relative;
+    height: 200px;
+    margin-top: .5rem;
+    overflow: auto;
+  }
+
+.dropdown-menu li{
+    opacity: 0;
+    visibility: hidden;
+}
+.dropdown-menu:focus li{
+    opacity: 1;
+    vertical-align: baseline;
+}
+.tdn{
+    text-decoration: none;
+}
